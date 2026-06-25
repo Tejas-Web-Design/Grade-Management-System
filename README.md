@@ -101,7 +101,7 @@ GradeManagementSystem/
 ### Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Tejas-Web-Design/Grade-Management-System/
 ```
 
 ### Navigate to Source Folder
