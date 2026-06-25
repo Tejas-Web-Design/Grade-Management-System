@@ -1,0 +1,34 @@
+Student Name: Alice Johnson
+Mathematics: 95
+Science: 88
+English: 92
+History: 85
+Computer: 94
+
+Student Name: Bob Wilson
+Mathematics: 75
+Science: 80
+English: 72
+History: 78
+Computer: 81
+
+Student Name: Charlie Brown
+Mathematics: 67
+Science: 71
+English: 69
+History: 65
+Computer: 73
+
+Student Name: Diana Smith
+Mathematics: 90
+Science: 91
+English: 89
+History: 87
+Computer: 92
+
+Student Name: Ethan Davis
+Mathematics: 55
+Science: 62
+English: 58
+History: 60
+Computer: 57
